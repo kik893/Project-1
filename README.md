@@ -6,10 +6,10 @@
   
 I queried the GitHub API for users in Delhi with more than 100 followers. Then, I collected information on up to 500 of their most recent public repositories. The data was saved in two CSV files: users.csv and repositories.csv.
 
-# Most Interesting Fact
+## Most Interesting Fact
 
 Many popular repositories, despite having high star counts, lack wikis and project management features. Improving documentation could greatly benefit these projects.
 
-# Recommendation for Developers
+## Recommendation for Developers
 
 Developers should use wikis and project boards more effectively to enhance project documentation and teamwork.
