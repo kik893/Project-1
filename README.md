@@ -2,7 +2,7 @@
 * Analyzing the data revealed that there is a significant variance in the number of public repositories among users, indicating differing levels of activity and engagement.
 * The programming languages used in repositories are diverse, reflecting a wide range of interests and expertise among developers in Delhi.
 
-**#How the Data was Scraped**
+#How the Data was Scraped#
   
 I queried the GitHub API for users in Delhi with more than 100 followers. Then, I collected information on up to 500 of their most recent public repositories. The data was saved in two CSV files: users.csv and repositories.csv.
 
